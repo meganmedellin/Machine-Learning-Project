@@ -19,8 +19,8 @@ To address these challenges, we have designed **SignEase**, a technology-based a
   - **Role:** Frontend Developer
   - **Interests & Activities:** Interested in creating user-friendly interfaces and accessible web applications.
   - **Portfolio:** [Portfolio URL]
-  - **LinkedIn:** [LinkedIn URL]
-  - **GitHub:** [GitHub URL]
+  - **LinkedIn:** [ Megan Medellin ](https://www.linkedin.com/in/megan-medellin-884180287?trk=feed_main-feed-card_feed-actor-image)
+  - **GitHub:** [GitHub Megan Medellin](https://github.com/meganmedellin)
 
 - **Annisa Tri Lahitani**
   - **Role:** ML Developer
