@@ -68,11 +68,11 @@ This project aligns with several Sustainable Development Goals (SDGs), including
     3.  Evaluate the effectiveness of the application in improving users' sign language skills and communication abilities.
 
 ### Research Methodology
-The research methodology for AplikasiBelajar includes:
+The research methodology for SignEase includes:
 
 *   Data Collection: Gathering a diverse dataset of sign language gestures for training the machine learning model.
 *   Model Development: Training and optimizing a machine learning model for sign language gesture recognition.
-*   Application Development: Designing and implementing the application interface for AplikasiBelajar.
+*   Application Development: Designing and implementing the application interface for SignEase.
 *   User Testing: Conducting usability testing and gathering feedback from users to improve the application.
 
 ### Methods and Technologies
