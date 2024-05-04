@@ -32,9 +32,9 @@ To address these challenges, we have designed **SignEase**, a technology-based a
 - **Mohammad Ezra Nur Islami**
   - **Role:** ML Developer
   - **Interests & Activities:** Interested in developing machine learning solutions to address real-world challenges.
-  - **Portfolio:** [Portfolio URL]
-  - **LinkedIn:** [LinkedIn URL]
-  - **GitHub:** [GitHub URL]
+  - **Portfolio:** https://heyzra.github.io/hizra.github.io/
+  - **LinkedIn:** [Mohammad Ezra Nur Islami](https://www.linkedin.com/in/mohammad-ezra/)
+  - **GitHub:** [https://github.com/heyZra](v)
 
 ### Topic and Motivation
 The motivation behind  SignEase stems from the desire to bridge the communication gap for individuals with hearing and speech impairments. Sign language is a vital form of communication for this community, yet resources for learning can be limited and inaccessible. By developing a machine learning application that teaches sign language in an engaging and interactive manner, we aim to empower individuals with hearing and speech impairments to learn and communicate effectively.
