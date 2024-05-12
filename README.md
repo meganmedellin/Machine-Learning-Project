@@ -63,6 +63,7 @@ This project aligns with several Sustainable Development Goals (SDGs), including
 <img src="flowchart.png" alt="alt text" width="300">
 
 #### Application Design and Illustration
+<img src="cover.png" alt="alt text" width="300">
 
 ### Research Questions and Objectives
 *   **Research Question:** How can machine learning algorithms be effectively utilized to facilitate the learning of sign language?
