@@ -39,6 +39,9 @@ To address these challenges, we have designed **SignEase**, a technology-based a
 ### Topic and Motivation
 The motivation behind  SignEase stems from the desire to bridge the communication gap for individuals with hearing and speech impairments. Sign language is a vital form of communication for this community, yet resources for learning can be limited and inaccessible. By developing a machine learning application that teaches sign language in an engaging and interactive manner, we aim to empower individuals with hearing and speech impairments to learn and communicate effectively.
 
+Cooperate with one another in goodness and righteousness, and do not cooperate in sin and transgression. And be mindful of Allah. Surely Allah is severe in punishment. – **(Q.S Al-Maidah: 2)**
+
+
 ### Target User Group
 SignEaser is designed for individuals with hearing and speech impairments who are interested in learning sign language. The application is suitable for users of all ages and backgrounds who wish to improve their communication skills and broaden their understanding of sign language.
 
@@ -103,5 +106,6 @@ The research methodology for SignEase includes:
 ### References
 
 ### Additional Pages
-
-### GitHub Repository
+- [Proposal Link](https://www.canva.com/design/DAGEgiqntso/sw5DbRPi_M3e49yOKYTKkQ/view?utm_content=DAGEgiqntso&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- [Github Link](https://github.com/MachineL-Group/Machine-Learning-Project.git)
+- [Promotion Link](https://www.instagram.com/reel/C63wB4rhmLU/?igshid=dTZ1aXBtdHRibWFu)
