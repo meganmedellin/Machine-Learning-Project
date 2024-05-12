@@ -22,12 +22,12 @@ To address these challenges, we have designed **SignEase**, a technology-based a
   - **LinkedIn:** [LinkedIn URL]
   - **GitHub:** [GitHub URL]
 
-- **Annisa Tri Lahitani**
+- **Anissa Tri Lahitani**
   - **Role:** ML Developer
   - **Interests & Activities:** Passionate about machine learning applications for social good.
-  - **Portfolio:** [Portfolio URL]
-  - **LinkedIn:** [LinkedIn URL]
-  - **GitHub:** [GitHub URL]
+  - **Portfolio:** https://lahitanido26.github.io/MyPortofolio/
+  - **LinkedIn:** [Anissa Tri Lahitani](www.linkedin.com/in/anissa-tri-lahitani)
+  - **GitHub:** [https://github.com/lahitanido26](https://github.com/lahitanido26)
 
 - **Mohammad Ezra Nur Islami**
   - **Role:** ML Developer
