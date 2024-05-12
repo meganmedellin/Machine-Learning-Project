@@ -57,6 +57,7 @@ This project aligns with several Sustainable Development Goals (SDGs), including
 - Goal 10: Reduced Inequalities, By facilitating communication and understanding for individuals with hearing and speech impairments, SignEase contributes to reducing inequalities and promoting social inclusion.
 
 #### Application Flow Chart
+<img src="flowchart.png" alt="alt text" width="300">
 
 #### Application Design and Illustration
 
