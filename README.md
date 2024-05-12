@@ -15,12 +15,12 @@ To address these challenges, we have designed **SignEase**, a technology-based a
   - **LinkedIn:** [Fiki Aprian](https://www.linkedin.com/in/fiki-aprian-b8624b216/)
   - **GitHub:** [https://github.com/fikiap23](https://github.com/fikiap23)
 
-- **Megan Madelin**
+- **Megan Madellin**
   - **Role:** Frontend Developer
   - **Interests & Activities:** Interested in creating user-friendly interfaces and accessible web applications.
   - **Portfolio:** [Portfolio URL]
-  - **LinkedIn:** [LinkedIn URL]
-  - **GitHub:** [GitHub URL]
+  - **LinkedIn:** [Megan Madellin](https://www.linkedin.com/in/megan-medellin-884180287/)
+  - **GitHub:** [http://github.com/meganmedellin](http://github.com/meganmedellin)
 
 - **Anissa Tri Lahitani**
   - **Role:** ML Developer
