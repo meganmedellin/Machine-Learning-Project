@@ -9,7 +9,7 @@ To address these challenges, we have designed **SignEase**, a technology-based a
 
 ### Team Members
 - **Fiki Aprian**
-  - **Role:** ML and Backend Developer
+  - **Role:** Backend Developer
   - **Interests & Activities:** Passionate about machine learning and cloud computing, with a focus on developing solutions for social impact.
   - **Portfolio:** https://my-portofolio-fikiap23.vercel.app
   - **LinkedIn:** [Fiki Aprian](https://www.linkedin.com/in/fiki-aprian-b8624b216/)
@@ -23,8 +23,8 @@ To address these challenges, we have designed **SignEase**, a technology-based a
   - **GitHub:** [http://github.com/meganmedellin](http://github.com/meganmedellin)
 
 - **Anissa Tri Lahitani**
-  - **Role:** ML Developer
-  - **Interests & Activities:** Passionate about machine learning applications for social good.
+  - **Role:** Backend Developer
+  - **Interests & Activities:** Passionate about backend applications for social good.
   - **Portfolio:** https://lahitanido26.github.io/MyPortofolio/
   - **LinkedIn:** [Anissa Tri Lahitani](https://www.linkedin.com/in/anissa-tri-lahitani)
   - **GitHub:** [https://github.com/lahitanido26](https://github.com/lahitanido26)
